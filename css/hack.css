@@ -1,0 +1,53 @@
+@font-face {
+  font-family: MyUnderwood;
+  src: url(MyUnderwood.ttf);
+}
+
+  .logo_mobile
+  {
+    font-family:MyUnderwood;
+    font-size: 21px;
+    font-weight:bold;
+  }
+
+     .navbar-brand {display: none;}
+
+		  	.small9 {	font-size: 14px;
+		}
+
+		@media only screen and (max-device-width : 320px)  {
+			#logo_welove,#address,#menu {display: none;}
+       .navbar-brand {display: inline;};
+		} 
+
+    .navbar-default {
+    background-color: white;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #333;
+}
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #555;
+    background-color: white;
+   
+}
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #555;
+    background-color: #D5D5D5;
+}
+
+h1 {
+  font: 400 60px/1.3 'Bree Serif', Georgia, serif;
+}
+ 
+p {
+  font: 400 14px/1.6 'Open Sans';
+}
+
+.navbar{
+}
