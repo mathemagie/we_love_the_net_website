@@ -20,7 +20,7 @@
 		  <tr>
 		      <h2>Tweet Place</h2>
 		      <p>by We Love The Net,<br>
-	          aurélien fache . julien levesque . albertine meunier<br>
+	          Aurélien Fache . Julien Levesque . Albertine Meunier<br>
 	          <br>
 		      </p>
 		      <p>rideau ouvert = nous sommes là, vous pouvez passer</p>
