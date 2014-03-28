@@ -17,7 +17,7 @@
           require_once "./nav.php";
         ?>
               <span class="small9">13 rue Petion, Paris, 11e - contact-at-we-love-the.net </span></p>
-		      <p>&nbsp;</p>zzz
+		      <p>&nbsp;</p>zzzz
 		      <p>rideau ouvert . <span class="small9">nous sommes là, vous pouvez passer </span> /// rideau fermé . <span class="small9">nous ne sommes pas dispo</span></p>
               <p>
                 <iframe src = "http://api.la-tapisserie.net/expo.html" width = "820px" height = "500px" frameborder = "0" scrolling="no"> </iframe>                
