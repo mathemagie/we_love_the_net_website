@@ -1,4 +1,5 @@
 <?php
+
   $title = "lieu";
   require_once './header.php';
 ?>
