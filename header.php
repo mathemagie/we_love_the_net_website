@@ -25,7 +25,7 @@ function isMobile() {
 <script type="text/javascript">stLight.options({publisher: "c00ea4c5-5727-4fb5-ae73-343dcd818626", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 	  	<link rel="stylesheet" type="text/css" href="/css/normalize.css"/>
-      <link rel="stylesheet" type="text/css" href="/css/hack.css?v=1"/>
+      <link rel="stylesheet" type="text/css" href="/css/hack.css?v=2"/>
 
 
 <link href="http://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet" type="text/css">
