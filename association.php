@@ -8,7 +8,7 @@
      <?php 
           require_once "./sidebar.php";
         ?>
-    <div class="col-md-9"><br/>
+    <div class="col-md-8"><br/>
 	 	 <?php 
 		      require_once "./nav.php";
 		    ?>

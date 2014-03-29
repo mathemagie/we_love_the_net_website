@@ -15,7 +15,7 @@
       <ul class="nav navbar-nav">
          <li class=""><a href="/association.php">Association</a></li>
         
-        <li class="active"><a href="/lieu.php">Tapisserie, le lieu</a></li>
+        <li class=""><a href="/lieu.php">Tapisserie, le lieu</a></li>
          <li class=""><a href="/productions.php">Les Productions d'objets</a></li>
         <!--<li class="dropdown">
           <a href="/productions.htm" class="dropdown-toggle" data-toggle="dropdown">Production d'objets <b class="caret"></b></a>
