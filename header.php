@@ -1,7 +1,9 @@
 <?php 
+  //error_reporting(E_ALL);
+  //ini_set('display_errors', 1);
 	function isMobile() {
 	    return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
-}
+	}
 ?>
 <!DOCTYPE html>
 <html>

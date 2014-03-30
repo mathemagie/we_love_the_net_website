@@ -1,4 +1,5 @@
 <?php
+  require_once './functions.php';
   $title = "lieu";
   require_once './header.php';
 ?>
@@ -15,7 +16,10 @@
           <p>13 rue Petion, Paris, 11e - contact-at-we-love-the.net</p>
           <p>Rideau ouvert . <span class="small9">nous sommes là, vous pouvez passer </span> /// rideau fermé . <span class="small9">nous ne sommes pas dispo</span></p>
           <p>
-            <iframe src = "http://api.la-tapisserie.net/expo.html" width = "100%" height = "500px" frameborder = "0" scrolling="no"> </iframe>                
+            <!--<iframe src = "http://api.la-tapisserie.net/expo.html" width = "100%" height = "500px" frameborder = "0" scrolling="no"> </iframe> -->
+            <?php $status_img = get_dispo_tapisserie();?>
+             <img class="img-responsive" src='<?php echo $status_img?>'></img>
+
           </p>
           <p>Le lieu tire son nom de sa fonction passée : un tapissier y était installé. </p>
             <p>Il est situé au 13 rue Pétion, au centre du 11ème arrondissement, à 2 minutes à pied du métro Voltaire et à 10 minutes du métro Père Lachaise. </p>
