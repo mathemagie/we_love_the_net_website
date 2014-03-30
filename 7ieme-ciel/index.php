@@ -5,18 +5,16 @@
 <body>
  <div class="container-fluid">
 	<div class="row">
-     <div class="col-md-2">
-     	 <?php if (!isMobile()) {?>
-       	<a id='logo_welove' href="/"><img src="http://www.we-love-the.net/images/logowelovethenet.jpg" width="151" height="188" alt="we love th enet"></a>
-      	<?php } ?>
-     </div>
+     <?php 
+          require_once "../sidebar.php";
+    ?>
 	 <div class="col-md-9"><br/>
 	 	 <?php 
 		      require_once "../nav.php";
 		    ?>
         <h2>7 ième Ciel</h2>
-		      <p>by We Love The Net,<br>
-	          aurélien fache . julien levesque . albertine meunier<br>
+		      <p>par We Love The Net,<br>
+	          Aurélien fache . jJlien levesque . Albertine meunier<br>
 	          &amp; tristan savina pour le développement de l'application Android
 	          <br>
 		      </p>
@@ -27,18 +25,19 @@
 	          L&rsquo;installation 7ième ciel va être installée prochainement à NUMA, espace de co-working parisien.<br>
 	          <br>
 		      </p>
-<p><strong>Data </strong>: altitude individu via Google location</p>
-<p><img class="img-responsive" src="7ieme-ciel.jpg" width="600" alt="elevation"></p>
-<p><img class="img-responsive"src="7ieme-ciel-detail.jpg" width="600" height="450" alt="elevation"></p>
-<p>&nbsp;</p>
+				<p><strong>Data </strong>: altitude individu via Google location</p>
+				<p><img class="img-responsive" src="7ieme-ciel.jpg" width="600" alt="elevation"></p>
+				<p><img class="img-responsive"src="7ieme-ciel-detail.jpg" width="600" height="450" alt="elevation"></p>
+				<p>&nbsp;</p>
               <p><img class="img-responsive" src="Proto-7Ciel-photo-2-bd.jpg" width="600" alt="elevation 2" /></p>
               <p><br>
               </p>
-              <p>&nbsp;</p>
               <p><strong>Documentation technique :		      </strong></p>
 		      <p class="small9">à compléter<a href="https://github.com/mathemagie/api_la_tapisserie/tree/master/www" target="_blank"></a></p>
 		      <p>&nbsp;</p>
-		      <p>&nbsp;</p>
+		      <?php
+		          require_once '../share_bloc.php';
+        		?><br/><br/>
 		      <p><strong>Si vous souhaitez plus d'informations</strong> sur ce projet n'hésitez pas à nous contacter à cette adresse :</p>
             <p><span class="small9"><a href="mailto:contact@we-love-the.net">contact(at)we-love-the.net </a></span>
 

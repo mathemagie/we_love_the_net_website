@@ -5,11 +5,9 @@
 <body>
  <div class="container-fluid">
 	<div class="row">
-     <div class="col-md-2">
-     	<?php if (!isMobile()) {?>
-       	<a id='logo_welove' href="/"><img src="http://www.we-love-the.net/images/logowelovethenet.jpg" width="151" height="188" alt="we love th enet"></a>
-      <?php } ?>
-     </div>
+     <?php 
+          require_once "../sidebar.php";
+    ?>
 	 <div class="col-md-9"><br/>
 	 	 <?php 
       require_once "../nav.php";
@@ -25,23 +23,20 @@
                 <br>
               </p>
               <p><strong>Data : </strong>résultat recherche  Google</p>
-<p>&nbsp;</p>
-<p>Petite explication en images&nbsp;:</p>
-<p><iframe class="vine-embed" src="https://vine.co/v/MaqO75B3ujW/embed/simple" width="600" height="600" frameborder="0"></iframe><script async src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script>
-  <br>
-  <br>
-  <span class="small9">Pegman Puppet construit sur le modèle AgitProp</span></p>
-<p>Symbolisé par une sculpture, le Pegman Puppet est une petite poupée en tissu qui vibre à chaque fois qu'on parle de Pegman sur Internet. Cette poupée vaudou est un objet magique qui symbolise l'esprit du petit bonhomme jaune de Google Maps </p>
-<p>&nbsp;</p>
-              <p><br>
-              </p>
-              <p>&nbsp;</p>
-              <p><strong>Documentation technique :		      </strong></p>
-		      <p class="small9">https://github.com/mathemagie/agitprop</p>
-<p class="small9">&nbsp;</p>
-<p class="small9">&nbsp;</p>
-		      <p>&nbsp;</p>
-		      <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>Petite explication en images&nbsp;:</p>
+          <p><iframe class="vine-embed" src="https://vine.co/v/MaqO75B3ujW/embed/simple" width="600" height="600" frameborder="0"></iframe><script async src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script>
+            <br>
+            <br>
+            <span class="small9">Pegman Puppet construit sur le modèle AgitProp</span></p>
+          <p>Symbolisé par une sculpture, le Pegman Puppet est une petite poupée en tissu qui vibre à chaque fois qu'on parle de Pegman sur Internet. Cette poupée vaudou est un objet magique qui symbolise l'esprit du petit bonhomme jaune de Google Maps </p>
+          <p>&nbsp;</p>
+              
+<!--              <p><strong>Documentation technique :		      </strong></p>
+		      <p class="small9">https://github.com/mathemagie/agitprop</p>-->
+           <?php
+              require_once '../share_bloc.php';
+            ?><br/><br/>
 		      <p><strong>Si vous souhaitez plus d'informations</strong> sur ce projet n'hésitez pas à nous contacter à cette adresse :</p>
             <p><span class="small9"><a href="mailto:contact@we-love-the.net">contact(at)we-love-the.net </a></span></p>
 

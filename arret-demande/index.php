@@ -5,19 +5,18 @@
 <body>
  <div class="container-fluid">
 	<div class="row">
-     <div class="col-md-2">
-      <?php if (!isMobile()) {?>
-       	<a id='logo_welove' href="/"><img src="http://www.we-love-the.net/images/logowelovethenet.jpg" width="151" height="188" alt="we love th enet"></a>
-      <?php } ?>
-     </div>
+     <?php 
+          require_once "../sidebar.php";
+    ?>
+    
 	 <div class="col-md-9"><br/>
     <?php 
       require_once "../nav.php";
     ?>
     <br/>
 	      <h3>Arrêt Demandé</h3>
-		      <p>by We Love The Net,<br>
-	          <a href="http://twitter.com/mathemagie">Aurélien Fache</a> . Julien levesque . albertine meunier<br>
+		      <p>par We Love The Net,<br>
+	          Aurélien Fache . Julien levesque . Albertine meunier<br>
 		      </p>
 		      <p><em>Arrêt Demandé</em> est un objet destiné à annoncé de manière visuelle ou sonore l'arrivée prochaine de votre bus. <br>
 				<br>
@@ -40,9 +39,10 @@
               <p><strong>Documentation technique :		      </strong></p>
 		      <p class="small9"><a target='new' href="https://github.com/mathemagie/arret_demande">https://github.com/mathemagie/arret_demande</a></p>
 		      <p>&nbsp;</p>
-		     <!-- <span class='st_facebook_large' displayText='Facebook'></span>
-				<span class='st_twitter_large' displayText='Tweet'></span>
-				<span class='st_pinterest_large' displayText='Pinterest'></span>-->
+
+		       <?php
+          			require_once '../share_bloc.php';
+        		?>
 				<br/><br/>
 		      <p><strong>Si vous souhaitez plus d'informations</strong> sur ce projet n'hésitez pas à nous contacter à cette adresse :</p>
             <p><span class="small9"><a href="mailto:contact@we-love-the.net">contact(at)we-love-the.net </a></span></p>
