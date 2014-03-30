@@ -14,8 +14,8 @@
     ?>
 				 	
 		      <h2>AgitProp</h2>
-		      <p>by We Love The Net,<br>
-	          aurélien fache . julien levesque<br>
+		      <p>par We Love The Net,<br>
+	          Aurélien fache . Julien levesque<br>
 		      </p>
 		      <p>&nbsp;</p>
 		      <p>AgitProp est un objet sensible à un &lt;mot clé&gt; choisi sur Internet. Prévu pour être installé in situ dans un lieu, AgitProp  présente un objet qui s&rsquo;anime dans le cas de la publication sur Google, pendant la dernière heure passée, d&rsquo;un article avec le &lt;mot clé&gt; choisi. Prenant l&rsquo;exemple de NUMA, un objet s&rsquo;anime dès que l&rsquo;expression &lt;NUMA&gt; est publiée sur Google.</p>
