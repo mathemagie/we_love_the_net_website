@@ -28,7 +28,7 @@ font-weight:bold;
 }
 
 .navbar {
-  margin-left: -40px;
+  margin-left: 0px;
   margin-bottom: 0px;
 }
 
@@ -73,6 +73,8 @@ a.share {
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
    #logo_welove,#address,#menu {display: none;}
    .navbar-brand {display: inline;};
-   .navbar {margin-left: 0px }
-   body {background-color: blue}
 } 
+@media only screen and (min-width : 800px) {
+  .navbar {margin-left: -40px }
+}
+  
