@@ -30,7 +30,7 @@
 		      <p><strong>vous souhaitez savoir si nous somme à l'atelier?</strong><br>
 	            rideau ouvert . <span class="small9">nous sommes là, vous pouvez passer<br>
 	          </span>rideau fermé . <span class="small9">nous ne sommes pas dispo</span><br>
-	          plus d'info sur <a href="http://we-love-the.net/tweet-place/">TweetPlace</a>		      </p>
+	          plus d'info sur <a href="/tweet-place/">TweetPlace</a>		      </p>
 	          <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
 
