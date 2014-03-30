@@ -12,10 +12,9 @@
      <?php 
           require_once "./nav.php";
         ?>
-         <p><strong>LES OBJETS PRODUITS PAR WE LOVE THE NET</strong><br>
+                <h4>LES OBJETS PRODUITS PAR WE LOVE THE NET</h4>
                 <br>
-                &gt; <strong>Les objets &quot;branchés&quot; de la série HAPPY TRUCs</strong><br>
-                <br>
+                <h5><i class="fa fa fa-hand-o-right fa-2x"></i> Les objets &quot;branchés&quot; de la série HAPPY TRUCs</h5><br>
                 <strong>HAPPY TRUCs </strong>est une série d&rsquo;objets &quot;branchés&quot;* destinés à des lieux physiques, comme des commerces, des espaces publics, des espaces de co working, des espaces culturels …</p>
               <p>Les objets de la série <strong>HAPPY TRUCs</strong> s&rsquo;intègrent dans un lieu physique. </p>
               <p class="small9">(*)  branchés à internet<br>
@@ -50,23 +49,20 @@
                   <em>Arrêt Demandé</em> est un objet destiné à annoncé de manière visuelle ou sonore l'arrivée prochaine de votre bus.              </li>
               </ul>
               <p>&nbsp;</p>
-              <p><strong>&gt; Les autres objets</strong></p>
+              <h5><i class="fa fa-chevron-right"></i> Les autres objets</h5>
               <ul>
                 <li>la Boîte  Meuh</strong>
 interactive                    </p></li>
               </ul>
               <p><br>
             </p>
-              <p dir="ltr"><strong>&gt; Les installations artistiques</strong></p>
+              <h5><i class="fa fa-chevron-right"></i>&nbsp;Les installations artistiques</h5>
               <ul>
                 
                 <li><a href="http://we-love-the.net/7ieme-ciel/"><strong>7ième Ciel</strong></a></li>
                 <li><a href="http://albertinemeunier.net/croisements/">Croisements</a></li>
               </ul>
-              <p dir="ltr">&nbsp;</p>
-        
-       
-    </div>
+        </div>
    </div>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>

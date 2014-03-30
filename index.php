@@ -14,16 +14,21 @@
 		      require_once "./nav.php";
 		    ?>
       <br>
-                 <span class="small9">13 rue Petion, Paris, 11e - contact-at-we-love-the.net - nous suivre <a href="https://twitter.com/we_love_the_net"><img src="images/twitter.png" width="25" height="21" alt="twitter"></a></span> <a href="https://www.facebook.com/we.lovethenet"><img src="images/facebook-logo.jpg" width="25" alt="twitter"></a> <a href="http://www.pinterest.com/welovethenet/"><img src="images/pinterest.jpg" width="25" alt="twitter"></a></p>
+                 <span class="small9">13 rue Petion, Paris, 11e - contact-at-we-love-the.net - nous suivre sur </span>&nbsp;
+                 <a class='share' href="https://twitter.com/we_love_the_net"><i class="fa fa-twitter fa-2x"></i></a>
+                 &nbsp;<a class='share' href="https://www.facebook.com/we.lovethenet"><i class="fa fa-facebook fa-2x"></i></a> 
+                 &nbsp;<a class='share' href="http://www.pinterest.com/welovethenet/"><i class="fa fa-pinterest fa-2x"></i></a>
+                  &nbsp;<a class='share' href="http://vimeo.com/welovethenet/"><i class="fa fa-vimeo-square fa-2x"></i></a></p>
+                 
 		      <p><br>
-		        réalisation, diffusion et promotion de projets liés au design et à l&rsquo;art numérique, <br>
+		        Réalisation, diffusion et promotion de projets liés au design et à l&rsquo;art numérique, <br>
 	          et accompagnement de publics vers les NTIC</p>
 		      <p>&nbsp;</p>
-              <p><strong>&gt; nous recherchons 16 dames de plus de 66 ans </strong>. <a href="http://labotrucs.tumblr.com/post/72654209859/petite-annonce-nous-recherchons-des-dames-de-plus-de">voir l'annonce</a></p>
+              <p><strong><i class="fa fa-chevron-right"></i>&nbsp;Nous recherchons 16 dames de plus de 66 ans </strong>. <a href="http://labotrucs.tumblr.com/post/72654209859/petite-annonce-nous-recherchons-des-dames-de-plus-de">voir l'annonce</a></p>
 <!--		      <p><strong>&gt; nous recherchons des co-locataires : développeur, designer, bidouilleur, artiste, graphiste ... </strong><a href="http://we-love-the.net/annonce/">voir l'annonce</a>		      <br>-->
-		        <br>
+		        
               </p>
-		      <p>&gt; et puis aussi ... <br>
+		      <p><i class="fa fa-chevron-right"></i> et puis aussi ... <br>
 	          <img class="img-responsive" src="images/cherche-hacker.jpg" width="650" height="137" alt="cherche hacker"></p>
 		      <p><strong>vous souhaitez savoir si nous somme à l'atelier?</strong><br>
 	            rideau ouvert . <span class="small9">nous sommes là, vous pouvez passer<br>

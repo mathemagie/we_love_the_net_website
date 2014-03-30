@@ -37,7 +37,7 @@
               <p><script async src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script><br>
               </p>
               <p><strong>Documentation technique :		      </strong></p>
-		      <p class="small9"><a target='new' href="https://github.com/mathemagie/arret_demande">https://github.com/mathemagie/arret_demande</a></p>
+		      <i class="fa fa-github"></i> <a target='new' href="https://github.com/mathemagie/arret_demande">https://github.com/mathemagie/arret_demande</a>
 		      <p>&nbsp;</p>
 
 		       <?php
