@@ -30,7 +30,7 @@
               </p>
 		      <p><i class="fa fa-chevron-right"></i> et puis aussi ... <br>
 	          <img class="img-responsive" src="images/cherche-hacker.jpg" width="650" height="137" alt="cherche hacker"></p>
-		      <p><strong>vous souhaitez savoir si nous somme à l'atelier?</strong><br>
+		      <p><strong>Vous souhaitez savoir si nous sommes à l'atelier?</strong><br>
 	            rideau ouvert . <span class="small9">nous sommes là, vous pouvez passer<br>
 	          </span>rideau fermé . <span class="small9">nous ne sommes pas dispo</span><br>
 	          plus d'info sur <a href="/tweet-place/">TweetPlace</a>		      </p>
