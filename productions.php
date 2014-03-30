@@ -46,7 +46,7 @@
               </ul>
               <ul>
                 <li><a href="/arret-demande/"><strong>Arrêt Demandé</strong></a><strong></strong><br>
-                  <em>Arrêt Demandé</em> est un objet destiné à annoncé de manière visuelle ou sonore l'arrivée prochaine de votre bus.              </li>
+                  <em>Arrêt Demandé</em> est un objet destiné à annoncer de manière visuelle ou sonore l'arrivée prochaine de votre bus.              </li>
               </ul>
               <p>&nbsp;</p>
               <h5><i class="fa fa-chevron-right"></i> Les autres objets</h5>

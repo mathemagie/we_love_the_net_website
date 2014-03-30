@@ -18,7 +18,7 @@
 		      <p>par We Love The Net,<br>
 	          Aurélien Fache . Julien levesque . Albertine meunier<br>
 		      </p>
-		      <p><em>Arrêt Demandé</em> est un objet destiné à annoncé de manière visuelle ou sonore l'arrivée prochaine de votre bus. <br>
+		      <p><em>Arrêt Demandé</em> est un objet destiné à annoncer de manière visuelle ou sonore l'arrivée prochaine de votre bus. <br>
 				<br>
 		      </p>
 		      <p><strong>Data </strong>: RATP Data</p>

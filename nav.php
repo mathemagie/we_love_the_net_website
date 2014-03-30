@@ -19,7 +19,7 @@
 
           $menu['association.php'] = 'Association';
           $menu['lieu.php'] = 'Tapisserie, le lieu';
-          $menu['productions.php'] = 'Les Productions d\'objets';
+          $menu['productions.php'] = 'Productions d\'objets';
           $menu['labotrucs.php'] = 'LabOTrucs';
           $menu['hyperolds.php'] = 'Hype(r)Olds';
           $menu['formations.php'] = 'Formations';
@@ -37,7 +37,7 @@
             if ($_SERVER['SCRIPT_NAME'] == $link ) $class = 'active';
             if (($link == '/productions.php') && $doActive) $class = 'active';
             echo "<li class='" . $class . "'>";
-            echo "<a href='" . $link . "'>" . $label . "</a></li>";
+            echo "<a class='welovethenet' href='" . $link . "'>" . $label . "</a></li>";
         }
         ?>
 
