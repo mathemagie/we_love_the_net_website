@@ -35,8 +35,7 @@
 <script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
 
               <p>
-                <iframe src="http://api.la-tapisserie.net/rideau/index.html" width="800" height="600"/>                
-                
+                <iframe src="http://api.la-tapisserie.net/rideau/index.html" width="100%" height="600"/>                
               </p>
               
 	  </div>
