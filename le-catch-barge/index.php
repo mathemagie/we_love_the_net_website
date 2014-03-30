@@ -49,12 +49,9 @@
 <iframe src="//player.vimeo.com/video/90036600" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/90036600">Catch Barge</a> from <a href="http://vimeo.com/welovethenet">WeLoveTheNet</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
              <!-- <p><strong>Documentation technique :		      </strong></p>
 		      <p class="small9">à compléter</p>-->
-<!-- <span class='st_facebook_large' displayText='Facebook'></span>
-				<span class='st_twitter_large' displayText='Tweet'></span>
-				<span class='st_pinterest_large' displayText='Pinterest'></span>-->
         <?php
-         // require_once '../share_bloc.php';
-        ?>
+          require_once '../share_bloc.php';
+        ?><br/><br/>
 
 		      <p><strong>Si vous souhaitez plus d'informations</strong> sur ce projet n'hésitez pas à nous contacter à cette adresse :</p>
             <p><span class="small9"><a href="mailto:contact@we-love-the.net">happytrucs(at)we-love-the.net </a></span></p>
@@ -63,8 +60,7 @@
 	 </div>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-
 <script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
-
+<?php require_once '../footer.php';?>
 </body>
 </html>
