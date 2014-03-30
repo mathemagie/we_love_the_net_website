@@ -13,23 +13,27 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-         <li class=""><a href="/association.php">Association</a></li>
-        
-        <li class=""><a href="/lieu.php">Tapisserie, le lieu</a></li>
-         <li class=""><a href="/productions.php">Les Productions d'objets</a></li>
-        <!--<li class="dropdown">
-          <a href="/productions.htm" class="dropdown-toggle" data-toggle="dropdown">Production d'objets <b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            <li><a href="/7ieme-ciel/">7ème ciel</a></li>
-            <li><a href="/tweet-place/">TweetPlace</a></li>
-            <li><a href="/le-catch-barge/">CatchBarge</a></li>
-            <li><a href="/arret-demande/">Arrêt demandé</a></li>
-            <li><a href="/little-umbrella/">Little Umbrella</a></li>
-          </ul>
-        </li>-->
-         <li><a href="/labotrucs.php">LabOTrucs</a></li>
-         <li><a href="/hyperolds.php">Hype(r)Olds</a></li>
-         <li><a href="/formations.php">Formations</a></li>
+        <?php 
+          $menu['association.php'] = 'Association';
+          $menu['lieu.php'] = 'Tapisserie, le lieu';
+          $menu['productions.php'] = 'Les Productions d\'objets';
+          $menu['labotrucs.php'] = 'LabOTrucs';
+          $menu['hyperolds.php'] = 'Hype(r)Olds';
+          $menu['formations.php'] = 'Formations';
+//          echo $_SERVER['SCRIPT_NAME'];
+        ?>
+        <?php 
+        foreach ($menu as $link => $label) {
+            $class = '';
+            $link = "/" . $link;
+            if ($_SERVER['SCRIPT_NAME'] == $link ) $class = 'active';
+
+            echo "<li class='" . $class . "'>";
+            echo "<a href='" . $link . "'>" . $label . "</a></li>";
+        }
+        ?>
+
+
       </ul>
       
     </div><!-- /.navbar-collapse -->
