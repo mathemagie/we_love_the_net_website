@@ -73,5 +73,5 @@ a.share {
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
    #logo_welove,#address,#menu {display: none;}
    .navbar-brand {display: inline;};
-   .logo_mobile {margin-left: 20px }
+   .navbar-brand {margin-left: 20px }
 } 
