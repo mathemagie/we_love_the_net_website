@@ -6,11 +6,9 @@
 
 		 <div class="container-fluid">
 	<div class="row">
-     <div class="col-md-2">
-     	 <?php if (!isMobile()) {?>
-       	<a id='logo_welove' href="/"><img src="http://www.we-love-the.net/images/logowelovethenet.jpg" width="151" height="188" alt="we love th enet"></a>
-      	<?php } ?>
-     </div>
+		<?php 
+          require_once "./sidebar.php";
+    ?>
 	 <div class="col-md-9"><br/>
 	 	 <?php 
 		      require_once "./nav.php";
@@ -18,7 +16,7 @@
 		      <br/>
 	            <span class="small9">13 rue Petion, Paris, 11e - contact-at-we-love-the.net </span><br>
               <br/>
-		      <p>réalisation, diffusion et promotion de projets liés au design et à l&rsquo;art numérique, <br>
+		      <p>Réalisation, diffusion et promotion de projets liés au design et à l&rsquo;art numérique, <br>
 et accompagnement de publics vers les NTI</p>
 		      <ul>
 				<li>physical computing (arduino, raspberry pi)</li>
