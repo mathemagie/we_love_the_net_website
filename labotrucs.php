@@ -12,15 +12,12 @@
 	 	 <?php 
 		      require_once "./nav.php";
 		    ?>
-<!--		      <p>Réalisation, diffusion et promotion de projets liés au design et à l&rsquo;art numérique, <br>
-et accompagnement de publics vers les NTIC</p>-->
-		      <p>&nbsp;</p>
-
-	          <h4>Ateliers de  sensibilisation et d'accès à la fabrication numérique par le biais de la création artistique<br>
-              pour des femmes de plus de 66 ans et des enfants de 13 ans       . </h4>
-              <h4>LabOTrucs<br>
-                <span class="small9">impliquer les publics éloignés ou peu éduqués au numérique et de les accompagner pour qu&rsquo;ils deviennent des acteurs autonomes dans le monde d&rsquo;aujourd&rsquo;hui.<br>
-                </span>	        </h4>
+	          <h4>Ateliers de  sensibilisation et d'accès à la fabrication numérique par le biais de la création artistique
+              pour des femmes de plus de 66 ans et des enfants de 13 ans.</h4>
+              <br/>
+              <h4>LabOTrucs</h4>
+               <p>impliquer les publics éloignés ou peu éduqués au numérique et de les accompagner pour qu&rsquo;ils deviennent des acteurs autonomes dans le monde d&rsquo;aujourd&rsquo;hui.<br>
+                </p>
               <p>Depuis peu, le numérique rend possible un accès plus aisé à certains outils de fabrication auparavant réservés à l&rsquo;industrie. Mais la barrière de la technique semble toujours infranchissable pour certains. Peu de gens ont conscience des potentialités du numérique, de son pouvoir d&rsquo;autonomisation, d&rsquo;émancipation et d&rsquo;« empowerment ». Aborder le numérique à travers la création artistique contribue à rendre celui-ci plus ludique, plus accessible et permet de développer la créativité. Nous ferons découvrir à ces publics à l&rsquo;écart, les potentialités de production et de diffusion offertes par les machines de fabrication numérique, et nous donnerons à ces publics l&rsquo;opportunité de s&rsquo;impliquer dans un projet depuis sa conception jusqu&rsquo;à sa réalisation. Nous souhaitons favoriser un environnement créatif rassurant pour ces publics.<br>
                 <br>
               </p>

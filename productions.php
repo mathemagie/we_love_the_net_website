@@ -12,7 +12,7 @@
      <?php 
           require_once "./nav.php";
         ?>
-                <h4>LES OBJETS PRODUITS PAR WE LOVE THE NET</h4>
+                <h4>Les objets produits par We Love The Net</h4>
                 <br>
                 <h5><i class="fa fa fa-hand-o-right fa-2x"></i> Les objets &quot;branchés&quot; de la série HAPPY TRUCs</h5><br>
                 <strong>HAPPY TRUCs </strong>est une série d&rsquo;objets &quot;branchés&quot;* destinés à des lieux physiques, comme des commerces, des espaces publics, des espaces de co working, des espaces culturels …</p>
