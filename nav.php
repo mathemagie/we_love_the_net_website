@@ -14,20 +14,28 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <?php 
+
+          $doActive = false;
+
           $menu['association.php'] = 'Association';
           $menu['lieu.php'] = 'Tapisserie, le lieu';
           $menu['productions.php'] = 'Les Productions d\'objets';
           $menu['labotrucs.php'] = 'LabOTrucs';
           $menu['hyperolds.php'] = 'Hype(r)Olds';
           $menu['formations.php'] = 'Formations';
-//          echo $_SERVER['SCRIPT_NAME'];
+
+          $all_projects = array('umbrella','catch','agit','demande','tweet-place','ciel');
+          foreach ($all_projects as $project_name) {
+            if (strstr($_SERVER['REQUEST_URI'],$project_name)) $doActive = true;
+        }
+          
         ?>
         <?php 
         foreach ($menu as $link => $label) {
             $class = '';
             $link = "/" . $link;
             if ($_SERVER['SCRIPT_NAME'] == $link ) $class = 'active';
-
+            if (($link == '/productions.php') && $doActive) $class = 'active';
             echo "<li class='" . $class . "'>";
             echo "<a href='" . $link . "'>" . $label . "</a></li>";
         }
