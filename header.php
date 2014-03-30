@@ -18,6 +18,6 @@
         <link rel="stylesheet" href="/css/font-awesome.min.css">
 		<title><?php echo $title;?></title>
 		<link rel="stylesheet" type="text/css" href="/css/normalize.css"/>
-		<link rel="stylesheet" type="text/css" href="/css/hack.css?v=8"/>
+		<link rel="stylesheet" type="text/css" href="/css/hack.css?v=9"/>
 		<link href="http://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet" type="text/css">
 		<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
