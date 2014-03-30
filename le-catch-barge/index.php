@@ -37,19 +37,19 @@
 <!--<p>
   <iframe src="//instagram.com/p/kmsAl5qu44/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 </p>-->
-<p><img class="img-responsive" src="catch-barge-grand.jpg" width="800" height="599" alt="catch barge"></p>
-<p><span class="small9">Vue d'ensemble du petit train de la vitrine de la Tapisserie(échelle N - 1/160)</span><br>
+<p><img class="img-responsive" src="1.jpg" width="800" height="599" alt="catch barge"></p>
+<p><span class="small9">Vue d'ensemble du petit train de la vitrine de la Tapisserie(échelle N - 1/160) Crédit photo : Quentin Chevrier</span><br>
 </p>
 <p>&nbsp; </p>
 <p><img class="img-responsive" src="3.jpg" width="800" height="600">
-<p>Le petit train de la vitrine de la Tapisserie (échelle N - 1/160)</p>
+<p>Le petit train de la vitrine de la Tapisserie (échelle N - 1/160) Crédit photo : Quentin Chevrier</p>
 <img class="img-responsive" src="catch-barge-proto-4.jpg" width="800" height="600" alt="catch barge">
 <p>l'interface de pilotage du train</p>
 </p><br/>
 <iframe src="//player.vimeo.com/video/90036600" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/90036600">Catch Barge</a> from <a href="http://vimeo.com/welovethenet">WeLoveTheNet</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
              <!-- <p><strong>Documentation technique :		      </strong></p>
 		      <p class="small9">à compléter</p>-->
-        <?php
+        <br/><?php
           require_once '../share_bloc.php';
         ?><br/><br/>
 
