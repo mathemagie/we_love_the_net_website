@@ -73,3 +73,7 @@ h1 {
 p {
   font: 400 14px/1.6 'Open Sans';
 }
+
+a.share {
+  color : black;
+}
