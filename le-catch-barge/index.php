@@ -52,9 +52,9 @@
 <!-- <span class='st_facebook_large' displayText='Facebook'></span>
 				<span class='st_twitter_large' displayText='Tweet'></span>
 				<span class='st_pinterest_large' displayText='Pinterest'></span>-->
-<!--          <a class='share'  href="http://www.twitter.com/share"><i class="fa fa-twitter"></i></a>
-          <a class='share' href="https://www.facebook.com/sharer/sharer.php"><i class="fa fa-facebook"></i></a><br/><br/>
-        -->
+        <?php
+         // require_once '../share_bloc.php';
+        ?>
 
 		      <p><strong>Si vous souhaitez plus d'informations</strong> sur ce projet n'hésitez pas à nous contacter à cette adresse :</p>
             <p><span class="small9"><a href="mailto:contact@we-love-the.net">happytrucs(at)we-love-the.net </a></span></p>
