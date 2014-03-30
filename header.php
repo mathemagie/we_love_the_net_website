@@ -18,7 +18,7 @@ function isMobile() {
         <link rel="icon" type="image/ico" href="http://www.we-love-the.net/favicon.ico" />
         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-        <link rel="stylesheet" href="/css/font-awesome.min">
+        <link rel="stylesheet" href="/css/font-awesome.min.css">
 
 		<title><?php echo $title;?></title>
 		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>

@@ -16,13 +16,14 @@
       require_once "../nav.php";
     ?>
 
-                 <h2>Le Catch Barge</h2>
+          <h2>Le Catch Barge</h2>
 		      <p>by We Love The Net,<br>
-		        aurélien fache , loic le guen . julien levesque . albertine meunier<br>
+		        Aurélien fache , Loic le guen . Julien levesque . Albertine meunier<br>
 		        <br>
 		      </p>
-		      <p>Le CatchBarge est une installation destinée aux vitrines des lieux et conçue pour attirer le chaland, d’où le nom de Catch Barge: Attrape Chaland en français.<br>
-		      </p>
+		      <p>Le CatchBarge est une installation destinée aux vitrines des lieux et conçue pour attirer le chaland, d’où le nom de Catch Barge: Attrape Chaland en français.</p>
+           
+		    
 		      <p>Le CatchBarge de notre lieu permet de piloter un petit train en changeant son trajet via l’activation des aiguillages et en modulant sa vitesse très simplement depuis une interface sur un téléphone mobile.</p>
 		      <div>
                 <div id="ftn1">
@@ -33,30 +34,24 @@
               </div>
 <p>&nbsp;</p>
 <p>Quelques  images</p>
-<p>
+<!--<p>
   <iframe src="//instagram.com/p/kmsAl5qu44/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
-</p>
+</p>-->
 <p><img class="img-responsive" src="catch-barge-grand.jpg" width="800" height="599" alt="catch barge"></p>
 <p><span class="small9">Vue d'ensemble du petit train de la vitrine de la Tapisserie(échelle N - 1/160)</span><br>
 </p>
 <p>&nbsp; </p>
-<p><img class="img-responsive" src="catch-barge-proto-5.jpg" width="800" height="600"><br>
-  <br>
-<span class="small9">Le petit train de la vitrine de la Tapisserie(échelle N - 1/160)</span></p>
-<p>&nbsp;</p>
-<p><img class="img-responsive" src="catch-barge-proto-4.jpg" width="800" height="600" alt="catch barge"><br>
-  <br>
-  l'interface de pilotage du train
-</p>
-<p>&nbsp;</p>
-              <p>&nbsp;</p>
+<p><img class="img-responsive" src="3.jpg" width="800" height="600">
+<p>Le petit train de la vitrine de la Tapisserie (échelle N - 1/160)</p>
+<img class="img-responsive" src="catch-barge-proto-4.jpg" width="800" height="600" alt="catch barge">
+<p>l'interface de pilotage du train</p>
+</p><br/>
+<iframe src="//player.vimeo.com/video/90036600" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/90036600">Catch Barge</a> from <a href="http://vimeo.com/welovethenet">WeLoveTheNet</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
               <p><strong>Documentation technique :		      </strong></p>
 		      <p class="small9">à compléter</p>
-<p class="small9">&nbsp;</p>
 <!-- <span class='st_facebook_large' displayText='Facebook'></span>
 				<span class='st_twitter_large' displayText='Tweet'></span>
 				<span class='st_pinterest_large' displayText='Pinterest'></span>-->
-		      <p>&nbsp;</p>
 		      <p>&nbsp;</p>
 		      <p><strong>Si vous souhaitez plus d'informations</strong> sur ce projet n'hésitez pas à nous contacter à cette adresse :</p>
             <p><span class="small9"><a href="mailto:contact@we-love-the.net">contact(at)we-love-the.net </a></span></p>
