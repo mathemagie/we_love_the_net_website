@@ -6,7 +6,7 @@
 
 		 <div class="container-fluid">
 	<div class="row">
-		<?php 
+	<?php 
           require_once "./sidebar.php";
     ?>
 	 <div class="col-md-9"><br/>
