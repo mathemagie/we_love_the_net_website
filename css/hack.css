@@ -15,12 +15,6 @@ font-weight:bold;
 
 .navbar-brand {display: none;}
 
-@media only screen and (max-device-width : 320px)  {
-	 #logo_welove,#address,#menu {display: none;}
-   .navbar-brand {display: inline;};
-   .navbar {margin-left: 0px;}
-} 
-
 .navbar-default {
   background-color: white;
   border-color: white; 
@@ -75,3 +69,9 @@ p {
 a.share {
   color : black;
 }
+
+@media only screen and (max-device-width : 320px) and (max-device-width : 480px) {
+   #logo_welove,#address,#menu {display: none;}
+   .navbar-brand {display: inline;};
+   .navbar {margin-left: 0px;}
+} 
