@@ -74,4 +74,5 @@ a.share {
    #logo_welove,#address,#menu {display: none;}
    .navbar-brand {display: inline;};
    .navbar {margin-left: 0px;}
+   body { background: blue !important }
 } 
