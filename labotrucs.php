@@ -27,7 +27,7 @@ et accompagnement de publics vers les NTIC</p>-->
               <p>Depuis peu, le numérique rend possible un accès plus aisé à certains outils de fabrication auparavant réservés à l&rsquo;industrie. Mais la barrière de la technique semble toujours infranchissable pour certains. Peu de gens ont conscience des potentialités du numérique, de son pouvoir d&rsquo;autonomisation, d&rsquo;émancipation et d&rsquo;« empowerment ». Aborder le numérique à travers la création artistique contribue à rendre celui-ci plus ludique, plus accessible et permet de développer la créativité. Nous ferons découvrir à ces publics à l&rsquo;écart, les potentialités de production et de diffusion offertes par les machines de fabrication numérique, et nous donnerons à ces publics l&rsquo;opportunité de s&rsquo;impliquer dans un projet depuis sa conception jusqu&rsquo;à sa réalisation. Nous souhaitons favoriser un environnement créatif rassurant pour ces publics.<br>
                 <br>
               </p>
-              <p><em><a target='_new' href="http://labotrucs.tumblr.com/">le blog du projet </a></em></p>
+              <a class="btn btn-default" href="http://labotrucs.tumblr.com/" role="button">Le blog du projet</a>
               <br/><br/>
 
              <?php if (0) {?>

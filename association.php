@@ -61,7 +61,8 @@ et accompagnement de publics vers les NTIC</p>
             <p><br>           
             <h5>Bastien Didier</h5><span class="">. Artiste des Nouveaux médias, Bastien DIDIER est One Billion Cat, un étudiant en design graphique numérique basé à Paris. Fort du bagage historique de son établissement, l'école du livre Estienne, il cherche à appliquer les règles parfois rigides de la typographie traditionnelle et de la mise en page à Internet. A contrario, dans ces travaux papier, Bastien est surtout poussé par l'envie d'aller au-delà de ce cadre rigide en prônant une liberté dans la forme comparable à celle que l'on peut habituellement trouver sur internet. Né en même temps qu'internet, il en connaît les enjeux et cherche sans cesse à en repousser les frontières. Adepte, de technologie, il ne donne pas de limites à son travail et aborde de nombreux médias. Bastien, c'est donc un point de vue résolument porté vers l'avenir, une armée que chacun est amené à rejoindre, l'armée du progrès.</span>               <a href="http://one-billion-cat.tumblr.com/" class="small9">one-billion-cat.tumblr.com</a>
              
-              <br>
+              <br><br/>
+              <p></p>
   
 	  </div>
 	 </div>
