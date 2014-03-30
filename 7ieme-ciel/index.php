@@ -1,5 +1,5 @@
 <?php
-  $title = "#happyTrucs Arrêt demandé par We Love The Net";
+  $title = "#happyTrucs 7ieme ciel par We Love The Net";
   require_once '../header.php';
 ?>
 <body>

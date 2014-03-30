@@ -25,30 +25,30 @@
               </p>
               <p>La série est actuellement composée de 5 objets prototypes&nbsp;:</p>
               <ul>
-                <li><a href="http://we-love-the.net/tweet-place/"><strong>Tweet Place</strong></a><strong><br>
+                <li><a href="/tweet-place/"><strong>Tweet Place</strong></a><strong><br>
                 </strong><em>Tweet Place</em> est un dispositif connecté permettant de savoir à distance si un lieu est ouvert ou fermé<br>
                 </li>
               </ul>
               <ul>
-                <li><a href="http://we-love-the.net/7ieme-ciel/"><strong>7ième Ciel</strong></a><strong><br>
+                <li><a href="/7ieme-ciel/"><strong>7ième Ciel</strong></a><strong><br>
                 </strong>Des objets mobiles personnalisés montent et descendent le long d&rsquo;un fil en fonction de l&rsquo;altitude physique temps réel des personnes du lieu ou des habitués du lieu. </li>
               </ul>
               <ul>
-                <li><a href="http://we-love-the.net/little-umbrella/"><strong>Little Umbrella</strong></a><strong><br>
+                <li><a href="/little-umbrella/"><strong>Little Umbrella</strong></a><strong><br>
                 </strong><em>Little Umbrella</em> est un petit parapluie connecté à Internet qui permet de connaître le temps qu'il va faire dans les 6 prochaines heures</li>
               </ul>
               <ul>
-                <li><a href="http://we-love-the.net/agit-prop/"><strong>AgitProp</strong></a><strong><br>
+                <li><a href="/agit-prop/"><strong>AgitProp</strong></a><strong><br>
                 </strong><em>AgitProp</em> est un objet sensible à un&lt;mot clé&gt; choisi.<br>
                 Prévu pour être installé in situ dans un lieu, AgitProp  présente un objet qui s&rsquo;anime dans le cas de la publication sur Google, pendant la dernière heure passée, d&rsquo;un article avec le &lt;mot clé&gt; choisi.              </li>
               </ul>
               <ul>
-                <li><a href="http://we-love-the.net/le-catch-barge/"><strong>Le CatchBarge</strong></a><strong><br>
+                <li><a href="/le-catch-barge/"><strong>Le CatchBarge</strong></a><strong><br>
                 </strong><em>Le CatchBarge</em> est une installation destinée aux vitrines des lieux et conçue pour attirer le chaland (d&rsquo;où le nom de Catch Barge&nbsp;: Attrape Chaland en français).<br>
                 Cette installation est prévue pour être pilotée de l&rsquo;extérieur, de l&rsquo;autre côté de la vitrine par le chaland.              </li>
               </ul>
               <ul>
-                <li><a href="http://we-love-the.net/arret-demande/"><strong>Arrêt Demandé</strong></a><strong></strong><br>
+                <li><a href="/arret-demande/"><strong>Arrêt Demandé</strong></a><strong></strong><br>
                   <em>Arrêt Demandé</em> est un objet destiné à annoncé de manière visuelle ou sonore l'arrivée prochaine de votre bus.              </li>
               </ul>
               <p>&nbsp;</p>
