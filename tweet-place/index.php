@@ -5,12 +5,11 @@
 <body>
  <div class="container-fluid">
   <div class="row">
-     <div class="col-sm-2">
-      <?php if (!isMobile()) {?>
-        <a id='logo_welove' href="/"><img src="http://www.we-love-the.net/images/logowelovethenet.jpg" width="151" height="188" alt="we love th enet"></a>
-      <?php } ?>
-     </div>
-   <div class="col-sm-9"><br/>
+     <?php 
+          require_once "../sidebar.php";
+        ?>
+
+   <div class="col-md-9"><br/>
     <?php 
       require_once "../nav.php";
     ?>	
@@ -124,7 +123,10 @@
 		      <p class="small9">API de la tapisserie -&gt; <a href="http://api.la-tapisserie.net/" target="_blank">http://api.la-tapisserie.net/</a></p>
 		      <p class="small9">Code arduino -&gt; <a href="https://github.com/mathemagie/api_la_tapisserie/blob/master/arduino/code" target="_blank">https://github.com/mathemagie/api_la_tapisserie/blob/master/arduino/code</a></p>
 		      <p class="small9">Code PHP de l'API (Slim) -&gt; <a href="https://github.com/mathemagie/api_la_tapisserie/tree/master/www" target="_blank">https://github.com/mathemagie/api_la_tapisserie/tree/master/www</a></p>
-		      <p>&nbsp;</p>
+          <br/>
+           <?php
+              require_once '../share_bloc.php';
+            ?>
 		      <p>&nbsp;</p>
 		      <p><strong>Si vous souhaitez plus d'informations</strong> sur ce projet n'hésitez pas à nous contacter à cette adresse :</p>
             <p><span class="small9"><a href="mailto:contact@we-love-the.net">contact(at)we-love-the.net </a></span></p></td>
