@@ -14,7 +14,7 @@
 		      require_once "./nav.php";
 		    ?>
 		      <br/>
-	            <span class="small9">13 rue Petion, Paris, 11e - contact-at-we-love-the.net </span><br>
+	          13 rue Petion, Paris, 11e - contact-AT-we-love-the.net<br>
               <br/>
 		      <p>Réalisation, diffusion et promotion de projets liés au design et à l&rsquo;art numérique, <br>
 et accompagnement de publics vers les NTI</p>

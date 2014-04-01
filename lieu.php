@@ -13,7 +13,7 @@
         <?php 
             require_once "./nav.php";
         ?>
-          <p>13 rue Petion, Paris, 11e - contact-at-we-love-the.net</p>
+          <p>contact-AT-we-love-the.net</p>
           <p>Rideau ouvert . <span class="small9">nous sommes là, vous pouvez passer </span> /// rideau fermé . <span class="small9">nous ne sommes pas dispo</span></p>
           <p>
             <!--<iframe src = "http://api.la-tapisserie.net/expo.html" width = "100%" height = "500px" frameborder = "0" scrolling="no"> </iframe> -->
