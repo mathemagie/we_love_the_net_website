@@ -86,4 +86,21 @@ a.share {
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) { 
  #logo_welove,#address,#menu {display: none;}
 }
+
+#sidebar {
+  position: fixed;
+  margin-left: -120px;
+  z-index: 1;
+  margin-top: 20px;
+  padding-left: 10px;
+   margin-bottom: 10px;
+}
+
+#wrapper {
+  padding-left: 150px;
+}
+
+#logo_welove {
+  padding-top: 20px;
+}
   

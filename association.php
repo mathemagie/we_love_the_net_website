@@ -3,12 +3,12 @@
   require_once './header.php';
 ?>
 <body>
- <div class="container-fluid">
+ <div id='wrapper' class="container-fluid">
 	<div class="row">
      <?php 
           require_once "./sidebar.php";
         ?>
-    <div class="col-md-9"><br/>
+    <div class="col-md-10"><br/>
 	 	 <?php 
 		      require_once "./nav.php";
 		    ?>
@@ -31,20 +31,20 @@ et accompagnement de publics vers les NTIC</p>
 	          secrétaire : albertine meunier<br>
 	          trésorière : julien levesque</span></p>
             <p><br>
-	        <h4>Albertine Meunier</h4>
+	        <h4>Albertine Meunier <a class='share' href="https://twitter.com/albertinmeunier"><i class="fa fa-twitter"></i></a></h4>
 	        <span class="">en sa qualité d&rsquo;artiste et secrétaire de l&rsquo;association.<br>
             albertine meunier est le pseudonyme de Catherine Ramus. Elle est née en 1964. Elle vit et travaille à Paris et Vitry sur Seine. Elle pratique l&rsquo;art dit numérique depuis 1998 et utilise Internet comme matériau. Elle a exposé en France et à l&rsquo;étranger. Elle a créé les Tea Time With Albertine (devenu Hype(r)Olds) pour reconnecter les personnes âgées à l&rsquo;écart du monde numérique. Exerçant une double activité, elle est aussi chef de projet recherche et développement chez Orange Labs. </span><a href="http://www.albertinemeunier.net" class="small9">www.albertinemeunier.net</a><br>
 	       <br>
 	       <br>
 	       <h4>Julien Levesque</h4>
 	        <span class="">en sa qualité d&rsquo;artiste et trésorier de l&rsquo;association.<br>
-            julien levesque est né en 1981. Il vit et travaille à Paris. Diplômé des Beaux arts de Paris, il est artiste et doctorant en arts plastiques à l&rsquo;université Paris 8. Il y enseigne également l&rsquo;histoire de l&rsquo;art sur Internet. De 2009 à 2011, il s&rsquo;intéresse au monde virtuel en tant qu&rsquo;étudiant chercheur à L&rsquo;ENSAD LAB (Ecole des Arts Décoratifs de Paris). Durant 2011, avec l&rsquo;artiste Albertine Meunier, il développe Hype(r)Olds, des ateliers nouveaux média pour des femmes de plus de 77 ans. </span><a href="http://julienlevesque.net" class="small9">www.julienlevesque.net            </a></p>            
+            julien levesque est né en 1982. Il vit et travaille à Paris. Diplômé des Beaux arts de Paris, il est artiste et doctorant en arts plastiques à l&rsquo;université Paris 8. Il y enseigne également l&rsquo;histoire de l&rsquo;art sur Internet. De 2009 à 2011, il s&rsquo;intéresse au monde virtuel en tant qu&rsquo;étudiant chercheur à L&rsquo;ENSAD LAB (Ecole des Arts Décoratifs de Paris). Durant 2011, avec l&rsquo;artiste Albertine Meunier, il développe Hype(r)Olds, des ateliers nouveaux média pour des femmes de plus de 77 ans. </span><a href="http://julienlevesque.net" class="small9">www.julienlevesque.net            </a></p>            
             <p><br>
             </p>
             <h2>Membres actifs</h2>
             <h4>Caroline Delieutraz.</h4>née en 1982. Diplômée de l&rsquo;université Paris 8 et des Arts Décoratifs de Paris, elle vit et travaille à Paris. En tant qu&rsquo;artiste, elle s&rsquo;intéresse à la circulation des images sur Internet. En 2011 et 2012, elle intervient lors d&rsquo;ateliers artistiques dans les écoles de la ville de Paris et de Montreuil. Depuis mars 2012, elle anime un atelier Hype(r)Olds avec des dames de plus de 77 ans.            <a href="http://www.delieutraz.net/" class="small9">www.delieutraz.net/</a></p>
             <p><br>
-              <h4>Aurélien Fache <a href="http://twitter.com/mathemagie"><i class="fa fa-twitter"></i></a>&nbsp;<a href="http://fr.linkedin.com/in/aurelienfache/"><i class="fa fa-linkedin"></i></a></h4>
+              <h4>Aurélien Fache <a class='share' href="http://twitter.com/mathemagie"><i class="fa fa-twitter"></i></a>&nbsp;<a class='share' href="http://fr.linkedin.com/in/aurelienfache/"><i class="fa fa-linkedin"></i></a></h4>
               <!--<img style="float:left" width='120px' height='120px'src="http://mathemagie.net/me.jpg"/>-->
               <span>Archéologue du web (Multimania, Lycos, Dailymotion, Netvibes), co-fondateur et ancien directeur technique d'OWNI (media en ligne sur les cultures numériques), Aurélien s'intéresse aujourd'hui à tout qui concerne les APIs, l'internet des objets et la Réalité Augmentée.<br>
               <em>Le développeur le plus créatif de la place de Paris</em>, dixit albertine  <br>
@@ -63,6 +63,11 @@ et accompagnement de publics vers les NTIC</p>
              
               <br><br/>
               <p></p>
+
+            <h4>Thu Trinh-Bouvier <a class='share' href="https://twitter.com/T_Tiou"><i class="fa fa-twitter"></i></a></h4>
+            <p>Diplômée de l’ENSAD (Ecole des Art Décoratif de Paris), elle étudie actuellement la place et la fonction de l’image dans les réseaux sociaux dans le cadre d’un « executive master en communication » à Sciences Po.
+Parallèlement, à son domaine de recherche, elle exerce le poste de responsable nouveaux médias chez Vivendi.
+            </p>
   
 	  </div>
 	 </div>

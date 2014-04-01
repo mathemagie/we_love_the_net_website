@@ -3,12 +3,12 @@
   require_once './header.php';
 ?>
 <body>
- <div class="container-fluid">
+ <div id='wrapper' class="container-fluid">
   <div class="row">
     <?php 
           require_once "./sidebar.php";
     ?>
-     <div class="col-md-9"><br/>
+     <div class="col-md-10"><br/>
      <?php 
           require_once "./nav.php";
         ?>
