@@ -1,6 +1,6 @@
 <div id='sidebar'>
 
-	<a id='logo_welove' href="/"><img src="/images/logowelovethenet.jpg" alt="we love the net"></a>
+	<a id='logo_welove' href="/"><img src="/images/logowelovethenet_new.jpg" alt="we love the net"></a>
 		 <?php //if (!isMobile()) {?>
 
 	<?php //} ?>
