@@ -4,14 +4,13 @@
 ?>
 
 <body>
- <div class="container-fluid">
+ <div id='wrapper' class="container-fluid">
 	<div class="row">
-     <div class="col-sm-2">
-     	<?php if (!isMobile()) {?>
-     	<a id='logo_welove' href="/"><img src="http://www.we-love-the.net/images/logowelovethenet.jpg" width="151" height="188" alt="we love th enet"></a>
-     	<?php } ?>
-     </div>
-	 <div class="col-md-9"><br/>
+     <?php 
+          require_once "../sidebar.php";
+    ?>
+    
+	 <div class="col-md-10"><br/>
 	 	  <?php 
       require_once "../nav.php";
     ?>
