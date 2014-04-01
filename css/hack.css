@@ -95,8 +95,8 @@ a.share {
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   #logo_welove,#address,#menu,#sidebar {display: none;}
   .navbar-brand {display: inline;};
-  #wrapper {padding-left: 10px;}
-  } 
+  #wrapper { padding-left: 10px;}
+} 
 
 @media only screen and (min-width : 800px) {
   .navbar {margin-left: -40px }
