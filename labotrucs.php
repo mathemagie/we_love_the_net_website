@@ -53,7 +53,7 @@
 
         <?php } ?>
 
-              <p><img class="img-responsive" src="http://we-love-the.net/labotrucs/sewing-machine-antique.jpg"  alt="hyperolds" width="550"><br>
+              <p><img class="img-responsive" src="http://we-love-the.net/labotrucs_fichiers/sewing-machine-antique.jpg"  alt="hyperolds" width="550"><br>
 
 	  </div>
 	 </div>
