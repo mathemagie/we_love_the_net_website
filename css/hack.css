@@ -74,19 +74,6 @@ a.share {
   color : black;
 }
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-   #logo_welove,#address,#menu,#sidebar {display: none;}
-   .navbar-brand {display: inline;};
-} 
-
-@media only screen and (min-width : 800px) {
-  .navbar {margin-left: -40px }
-}
-
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) { 
- #logo_welove,#address,#menu,#sidebar {display: none;}
-}
-
 #sidebar {
   position: fixed;
   margin-left: -120px;
@@ -103,4 +90,18 @@ a.share {
 #logo_welove {
   padding-top: 20px;
 }
-  
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+   #logo_welove,#address,#menu,#sidebar {display: none;}
+   .navbar-brand {display: inline;};
+    #wrapper {padding-left: 10px;}
+} 
+
+@media only screen and (min-width : 800px) {
+  .navbar {margin-left: -40px }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) { 
+ #logo_welove,#address,#menu,#sidebar {display: none;}
+ #wrapper {padding-left: 20px;}
+}
