@@ -20,5 +20,5 @@
     <link rel="stylesheet" href="/css/font-awesome.min.css">
 	<title><?php echo $title;?></title>
 	<link rel="stylesheet" type="text/css" href="/css/normalize.css"/>
-	<link rel="stylesheet" type="text/css" href="/css/hack.css?v=15"/>
+	<link rel="stylesheet" type="text/css" href="/css/hack.css?v=16"/>
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
