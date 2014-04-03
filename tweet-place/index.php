@@ -18,7 +18,7 @@
 		<table width="1200" border="0">
 		  <tr>
 		      <h2>Tweet Place</h2>
-		      <p>by We Love The Net,<br>
+		      <p>Co-production We Love The Net - <a target='_new' href="http://art2m.com">Art2m</a><br>
 	          Aurélien Fache . Julien Levesque . Albertine Meunier<br>
 	          <br>
 		      </p>

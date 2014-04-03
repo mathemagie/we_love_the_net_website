@@ -14,7 +14,7 @@
     ?>
 				 	
 		      <h2>AgitProp</h2>
-		      <p>par We Love The Net,<br>
+		      <p>Co-production We Love The Net - <a target='_new' href="http://art2m.com">Art2m</a><br>
 	          Aurélien fache . Julien levesque<br>
 		      </p>
 		      <p>&nbsp;</p>

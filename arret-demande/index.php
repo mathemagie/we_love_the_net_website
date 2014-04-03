@@ -15,7 +15,7 @@
     ?>
     <br/>
 	      <h3>Arrêt Demandé</h3>
-		      <p>par We Love The Net,<br>
+		      <p>Co-production We Love The Net - <a target='_new' href="http://art2m.com">Art2m</a><br>
 	          Aurélien Fache . Julien levesque . Albertine meunier<br>
 		      </p>
 		      <p><em>Arrêt Demandé</em> est un objet destiné à annoncer de manière visuelle ou sonore l'arrivée prochaine de votre bus. <br>

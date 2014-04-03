@@ -16,7 +16,7 @@
     ?>
 
           <h2>Le Catch Barge</h2>
-		      <p>by We Love The Net,<br>
+		      <p>Co-production We Love The Net - <a target='_new' href="http://art2m.com">Art2m</a><br>
 		        Aurélien fache , Loic le guen . Julien levesque . Albertine meunier<br>
 		        <br>
 		      </p>

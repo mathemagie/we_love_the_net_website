@@ -36,7 +36,8 @@ et accompagnement de publics vers les NTIC</p>
             albertine meunier est le pseudonyme de Catherine Ramus. Elle est née en 1964. Elle vit et travaille à Paris et Vitry sur Seine. Elle pratique l&rsquo;art dit numérique depuis 1998 et utilise Internet comme matériau. Elle a exposé en France et à l&rsquo;étranger. Elle a créé les Tea Time With Albertine (devenu Hype(r)Olds) pour reconnecter les personnes âgées à l&rsquo;écart du monde numérique. Exerçant une double activité, elle est aussi chef de projet recherche et développement chez Orange Labs. 
             <a href="http://www.albertinemeunier.net" class="small9">www.albertinemeunier.net</a></p>
 	       <br>
-	       <h4>Julien Levesque</h4>
+	       <h4>Julien Levesque <a class='share' href="https://twitter.com/jsuispas1mouton"><i class="fa fa-twitter"></i></a> <a class='share' href="http://fr.linkedin.com/pub/julien-levesque/7/7b4/931"><i class="fa fa-linkedin"></i></a></h4>
+        
 	        <p>en sa qualité d&rsquo;artiste et trésorier de l&rsquo;association.<br>
             julien levesque est né en 1982. Il vit et travaille à Paris. Diplômé des Beaux arts de Paris, il est artiste et doctorant en arts plastiques à l&rsquo;université Paris 8. Il y enseigne également l&rsquo;histoire de l&rsquo;art sur Internet. De 2009 à 2011, il s&rsquo;intéresse au monde virtuel en tant qu&rsquo;étudiant chercheur à L&rsquo;ENSAD LAB (Ecole des Arts Décoratifs de Paris). Durant 2011, avec l&rsquo;artiste Albertine Meunier, il développe Hype(r)Olds, des ateliers nouveaux média pour des femmes de plus de 77 ans. 
             <a href="http://julienlevesque.net" class="small9">http://www.julienlevesque.net</a></p>
