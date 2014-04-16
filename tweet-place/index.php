@@ -128,6 +128,11 @@
               require_once '../share_bloc.php';
             ?>
 		      <p>&nbsp;</p>
+
+            <p>Les autres objets "branchés" de la série <strong>#happyTrucs</strong> : <a href="/little-umbrella/">Little Umbrella</a>, <a href="/7ieme-ciel/">7ème Ciel</a>,
+              <a href="/agit-prop/">Agit prop</a>, <a href="/arret-demande/">Arrêt demandé</a>, <a href="/le-catch-barge/">CatchBarge</a>
+            </p>
+
 		      <p><strong>Si vous souhaitez plus d'informations</strong> sur ce projet n'hésitez pas à nous contacter à cette adresse :</p>
             <p><span class="small9"><a href="mailto:contact@we-love-the.net">contact(at)we-love-the.net </a></span></p></td>
 	      </tr>

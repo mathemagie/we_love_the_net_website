@@ -20,7 +20,7 @@
               <p class="small9">(*)  branchés à internet<br>
                 <br>
               </p>
-              <p>La série est actuellement composée de 5 objets prototypes&nbsp;:</p>
+              <p>La série est actuellement composée de 6 objets prototypes&nbsp;:</p>
               <ul>
                 <li><a href="/tweet-place/"><strong>Tweet Place</strong></a><strong><br>
                 </strong><em>Tweet Place</em> est un dispositif connecté permettant de savoir à distance si un lieu est ouvert ou fermé<br>
