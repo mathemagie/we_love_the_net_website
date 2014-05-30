@@ -24,54 +24,32 @@
               </p>
               <div>
                   <p>La série est actuellement composée de 6 objets prototypes&nbsp;:</p>
-                <div id="all_happyTrucs">
-                    <div class="item">
-                        <a href="/7ieme-ciel"><img src="images/7eme-ciel-1.jpg" alt="7ème ciel" title="7ème ciel" /></a>
-                        <div class="caption" style="display: none;">
-                            <h2>7ieme ciel</h2>
-                            <p>Des objets mobiles personnalisés montent et descendent le long d’un fil en fonction de l’altitude physique temps réel des personnes du lieu ou des habitués du lieu.</p>
-                        </div>
-                    </div>       
-                    <div class="item">
-                        <a href="/le-catch-barge"><img src="le-catch-barge/3.jpg" alt="le CatchBarge" title="CatchBarge" /></a>
-                        <div class="caption" style="display: none;">
-                            <h2>CatchBarge</h2>
-                            <p>Le CatchBarge est une installation destinée aux vitrines des lieux et conçue pour attirer le chaland.
-                Cette installation est prévue pour être pilotée de l’extérieur, de l’autre côté de la vitrine par le chaland.</p>
-                        </div>
-                    </div>                 
                
-                 <div class="item">
-                        <a href="/little-umbrella/"><img src="/little-umbrella/little-3-umbrella.jpg" alt="Little Umbrella" title="Little Umbrella" /></a>
-                        <div class="caption" style="display: none;">
-                            <h2>Litte Umbrella</h2>
-                            <p>Little Umbrella est un petit parapluie connecté à Internet qui permet de connaître le temps qu'il va faire dans les 6 prochaines heures</p>
-                        </div>
-                    </div>                 
-                  <div class="item">
-                        <a href="/tweet-place"><img src="http://api.la-tapisserie.net/rideau/6.jpg" alt="TweetPlace" title="TweetPlace" /></a>
-                        <div class="caption" style="display: none;">
-                            <h2>TweetPlace</h2>
-                            <p>Tweet Place est un dispositif connecté permettant de savoir à distance si un lieu est ouvert ou fermé</p>
-                        </div>
-                    </div>                 
-                
-                <div class="item">
-                        <a href="/arret-demande/"><img width="620" src="images/arret_demande.jpg" alt="Arrêt demandé" title="Arrêt demandé" /></a>
-                        <div class="caption" style="display: none;">
-                            <h2>Arrêt demandé</h2>
-                            <p><em>Arrêt Demandé</em> est un objet destiné à annoncer de manière visuelle ou sonore l'arrivée prochaine de votre bus.</p>
-                        </div>
-                    </div>                 
-                </div>
-                <br clear="all"><br/>
+                  <h3>7ieme ciel</h3>
+                  <p>Des objets mobiles personnalisés montent et descendent le long d’un fil en fonction de l’altitude physique temps réel des personnes du lieu ou des habitués du lieu.</p>   
+                  <a href="/7ieme-ciel"><img width="610px" height="400px" class="img-responsive" src="images/7eme-ciel-1.jpg" alt="7ème ciel" title="7ème ciel" /></a>
+                  <br/><br/>
+                  <h3>CatchBarge</h3>
+                  <p>Le CatchBarge est une installation destinée aux vitrines des lieux et conçue pour attirer le chaland.
+                  Cette installation est prévue pour être pilotée de l’extérieur, de l’autre côté de la vitrine par le chaland.</p>
 
-                 <ul>
-                <li><a href="/agit-prop/"><strong>AgitProp</strong></a><strong><br>
-                </strong><em>AgitProp</em> est un objet sensible à un&lt;mot clé&gt; choisi.<br>
-                Prévu pour être installé in situ dans un lieu, AgitProp  présente un objet qui s&rsquo;anime dans le cas de la publication sur Google, pendant la dernière heure passée, d&rsquo;un article avec le &lt;mot clé&gt; choisi.              </li>
-              </ul>
-              <br/>
+                  <a href="/le-catch-barge"><img width="610px" height="400px"  class="img-responsive" src="le-catch-barge/3.jpg" alt="le CatchBarge" title="CatchBarge" /></a>
+                   <br/><br/>
+                  <h3>Litte Umbrella</h3>
+                  <p>Little Umbrella est un petit parapluie connecté à Internet qui permet de connaître le temps qu'il va faire dans les 6 prochaines heures</p>
+                  <a href="/little-umbrella/"><img width="610px" height="400px" class="img-responsive" src="/little-umbrella/little-3-umbrella.jpg" alt="Little Umbrella" title="Little Umbrella" /></a>
+                   <br/><br/>
+                  <h3>TweetPlace</h3>
+                  <p>Tweet Place est un dispositif connecté permettant de savoir à distance si un lieu est ouvert ou fermé</p>
+                  <a href="/tweet-place"><img width="610px" height="400px" class="img-responsive" src="http://api.la-tapisserie.net/rideau/6.jpg" alt="TweetPlace" title="TweetPlace" /></a>
+                   <br/><br/>      
+                  <h3>Arrêt demandé</h3>
+                  <p><em>Arrêt Demandé</em> est un objet destiné à annoncer de manière visuelle ou sonore l'arrivée prochaine de votre bus.</p>
+                  <a href="/arret-demande/"><img width="610px" height="400px" class="img-responsive" src="images/arret_demande.jpg" alt="Arrêt demandé" title="Arrêt demandé" /></a>
+                   <h3>Agit Prop</h3>
+                    <p>AgitProp est un objet sensible à un&lt;mot clé&gt; choisi.<br>
+                    Prévu pour être installé in situ dans un lieu, AgitProp  présente un objet qui s&rsquo;anime dans le cas de la publication sur Google, pendant la dernière heure passée, d&rsquo;un article avec le &lt;mot clé&gt; choisi.</p>
+                     <a href="/agit-prop/"><img width="610px" height="400px" class="img-responsive" src="images/pegman.jpg" alt="Pegman" title="Pegman" /></a>
 
             
              <!-- <ul>
@@ -98,6 +76,7 @@
                   <em>Arrêt Demandé</em> est un objet destiné à annoncer de manière visuelle ou sonore l'arrivée prochaine de votre bus.              </li>
               </ul>
               <p>&nbsp;</p>-->
+              <br/>
               <h5><i class="fa fa-chevron-right"></i> Les autres objets</h5>
               <ul>
                 <li>la Boîte  Meuh</strong>
