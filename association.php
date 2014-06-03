@@ -54,8 +54,6 @@ et accompagnement de publics vers les NTIC</p>
             <a href="http://julienlevesque.net" class="small9">http://www.julienlevesque.net</a></p>
            <br/><br/>
             <h2>Membres actifs</h2>
-            <h4>Caroline Delieutraz.</h4>
-            <p>née en 1982. Diplômée de l&rsquo;université Paris 8 et des Arts Décoratifs de Paris, elle vit et travaille à Paris. En tant qu&rsquo;artiste, elle s&rsquo;intéresse à la circulation des images sur Internet. En 2011 et 2012, elle intervient lors d&rsquo;ateliers artistiques dans les écoles de la ville de Paris et de Montreuil. Depuis mars 2012, elle anime un atelier Hype(r)Olds avec des dames de plus de 77 ans.            <a href="http://www.delieutraz.net/" class="small9">www.delieutraz.net/</a></p>
             <br/>
             <h4>Aurélien Fache <a class='share' href="http://twitter.com/mathemagie"><i class="fa fa-twitter"></i></a>&nbsp;<a class='share' href="http://fr.linkedin.com/in/aurelienfache/"><i class="fa fa-linkedin"></i></a></h4>
               <!--<img style="float:left" width='120px' height='120px'src="http://mathemagie.net/me.jpg"/>-->
