@@ -31,6 +31,17 @@ et accompagnement de publics vers les NTIC</p>
 	          secrétaire : albertine meunier<br>
 	          trésorière : julien levesque</span></p>
             <p><br>
+
+          <h4>Sylvie Tissot <a class='share' href="https://twitter.com/SylvieTissot"><i class="fa fa-twitter"></i></a></h4>
+        <p>Avant de créer son entreprise, Anabole, Sylvie Tissot a été chercheuse en informatique au Centre de Recherche d'Alstom puis a travaillé au sein de ARTGROUP, société spécialisée en effets spéciaux et spectacles d'androïdes.
+        <br/>Elle réalise des prestations pour des PME, Grands Groupes et institutions culturelles.
+        Elle travaille depuis de nombreuses années pour les sociétés Tralalère et Drôle de Trame.
+        <br/>Elle intervient régulièrement sous forme de workshops dans des écoles d’art et de design.
+        Elle accompagne également le travail de différents artistes.
+        <br/>Enfin elle consacre une partie de son temps à mener des projets de recherche sur les principes de programmation.
+        Les réalisations et le savoir-faire d’Anabole sont décrits en détail sur <a href="http://www.anabole.com">http://www.anabole.com</a>
+        <br/>Sa timeline : <a href="http://www.anabole.com/autobiographie">http://www.anabole.com/autobiographie</a></p><br/>
+
 	        <h4>Albertine Meunier <a class='share' href="https://twitter.com/albertinmeunier"><i class="fa fa-twitter"></i></a> <a class='share' href="https://www.linkedin.com/profile/view?id=7762192"><i class="fa fa-linkedin"></i></a></h4>
 	        <p>en sa qualité d&rsquo;artiste et secrétaire de l&rsquo;association.<br>
             albertine meunier est le pseudonyme de Catherine Ramus. Elle est née en 1964. Elle vit et travaille à Paris et Vitry sur Seine. Elle pratique l&rsquo;art dit numérique depuis 1998 et utilise Internet comme matériau. Elle a exposé en France et à l&rsquo;étranger. Elle a créé les Tea Time With Albertine (devenu Hype(r)Olds) pour reconnecter les personnes âgées à l&rsquo;écart du monde numérique. Exerçant une double activité, elle est aussi chef de projet recherche et développement chez Orange Labs. 
@@ -72,7 +83,13 @@ et accompagnement de publics vers les NTIC</p>
             <p>Diplômée de l’ENSAD (Ecole des Art Décoratif de Paris), elle étudie actuellement la place et la fonction de l’image dans les réseaux sociaux dans le cadre d’un « executive master en communication » à Sciences Po.
 Parallèlement, à son domaine de recherche, elle exerce le poste de responsable nouveaux médias chez Vivendi.
             </p>
-  
+            <br/>
+            <h4>Huieun Kim <a class='share' href="http://fr.linkedin.com/in/huieunkim"><i class="fa fa-linkedin"></i></a></h4>
+              <p>
+                Coréenne, elle vit et travaille à Paris. Diplômée de l’école de design Strate, en spécialité de design d’interaction en 2010.
+Intéressée par l’approche psychologique et émotionnelle induite par l’interaction entre l’homme et l’objet ou l’espace, sensible aux nouvelles technologies, elle crée des objets interactifs qui offrent une expérience poétique et esthétique.
+Actuellement, elle exerce son savoir-faire comme designer d’interaction chez Renault</p>
+<br/>  
 	  </div>
 	 </div>
 </div>
