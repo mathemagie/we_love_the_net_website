@@ -84,9 +84,8 @@ Parallèlement, à son domaine de recherche, elle exerce le poste de responsable
             <br/>
             <h4>Huieun Kim <a class='share' href="http://fr.linkedin.com/in/huieunkim"><i class="fa fa-linkedin"></i></a></h4>
               <p>
-                Coréenne, elle vit et travaille à Paris. Diplômée de l’école de design Strate, en spécialité de design d’interaction en 2010.
-Intéressée par l’approche psychologique et émotionnelle induite par l’interaction entre l’homme et l’objet ou l’espace, sensible aux nouvelles technologies, elle crée des objets interactifs qui offrent une expérience poétique et esthétique.
-Actuellement, elle exerce son savoir-faire comme designer d’interaction chez Renault</p>
+               Sud-coréenne, Huieun vit et travaille à Paris. Diplômée de l’école de design Strate en 2010, elle se spécialise dans design d’interaction. Sensible aux nouvelles technologies, intéressée par l’approche psychologique et émotionnelle induite par l’interaction entre l’homme et l’objet dans leur environnements, elle crée des objets interactifs qui offrent une expérience poétique et esthétique. 
+Actuellement, elle exerce son savoir-faire comme designer d’interaction chez Renault.</p>
 <br/>  
 	  </div>
 	 </div>
