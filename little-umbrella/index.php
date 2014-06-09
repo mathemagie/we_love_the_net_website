@@ -30,9 +30,6 @@ Cet objet connecté permet ainsi de savoir si il faut sortir couvert ou pas!    
               <p><iframe class="vine-embed" src="https://vine.co/v/hWmTpE1b09j/embed/simple" width="600" height="600" frameborder="0"></iframe><script async src="//platform.vine.co/static/scripts/embed.js" charset="utf-8"></script><br>
               </p>
               <p>&nbsp;</p>
-              <p><strong>Documentation technique :		      </strong></p>
-		      <p class="small9"><a target='_new' href="https://github.com/mathemagie/little_umbrella">https://github.com/mathemagie/little_umbrella</a></p>
-<p class="small9">&nbsp;</p>
 		       <?php
 		          require_once '../share_bloc.php';
         		?><br/><br/>

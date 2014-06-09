@@ -121,8 +121,7 @@
               <p>&nbsp;</p>
               <p><strong>Documentation technique :		      </strong></p>
 		      <p class="small9">API de la tapisserie -&gt; <a href="http://api.la-tapisserie.net/" target="_blank">http://api.la-tapisserie.net/</a></p>
-		      <p class="small9">Code arduino -&gt; <a href="https://github.com/mathemagie/api_la_tapisserie/blob/master/arduino/code" target="_blank">https://github.com/mathemagie/api_la_tapisserie/blob/master/arduino/code</a></p>
-		      <p class="small9">Code PHP de l'API (Slim) -&gt; <a href="https://github.com/mathemagie/api_la_tapisserie/tree/master/www" target="_blank">https://github.com/mathemagie/api_la_tapisserie/tree/master/www</a></p>
+          
           <br/>
            <?php
               require_once '../share_bloc.php';
