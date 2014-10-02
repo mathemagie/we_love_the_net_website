@@ -49,8 +49,7 @@ et accompagnement de publics vers les NTIC</p>
 	       <br>
 	       <h4>Julien Levesque <a class='share' href="https://twitter.com/jsuispas1mouton"><i class="fa fa-twitter"></i></a> <a class='share' href="http://fr.linkedin.com/pub/julien-levesque/7/7b4/931"><i class="fa fa-linkedin"></i></a></h4>
         
-	        <p>en sa qualité d&rsquo;artiste et trésorier de l&rsquo;association.<br>
-            julien levesque est né en 1982. Il vit et travaille à Paris. Diplômé des Beaux arts de Paris, il est artiste et doctorant en arts plastiques à l&rsquo;université Paris 8. Il y enseigne également l&rsquo;histoire de l&rsquo;art sur Internet. De 2009 à 2011, il s&rsquo;intéresse au monde virtuel en tant qu&rsquo;étudiant chercheur à L&rsquo;ENSAD LAB (Ecole des Arts Décoratifs de Paris). Durant 2011, avec l&rsquo;artiste Albertine Meunier, il développe Hype(r)Olds, des ateliers nouveaux média pour des femmes de plus de 77 ans. 
+	        <p>julien levesque est un artiste français né en 1982. Il vit et travaille à Paris. Diplômé ​de l'école​des Beaux arts de Paris et d'un Master 2 en arts plastiques à l’université Paris 8. Il  enseigne notamment l’histoire de l’art sur et avec Internet. De 2009 à 2011, il participe en tant qu’étudiant chercheur à L’ENSAD LAB (Ecole des Arts Décoratifs de Paris). Durant l'année 2011, avec l’artiste Albertine Meunier, il développe Hype(r)Olds, des ateliers nouveaux média pour des femmes de plus de 77 ans.</p>
             <a href="http://julienlevesque.net" class="small9">http://www.julienlevesque.net</a></p>
            <br/><br/>
             <h2>Membres actifs</h2>
