@@ -21,11 +21,15 @@ et accompagnement de publics vers les NTIC</p>
 	          un membre peut aussi se voir proposer l&rsquo;animation de quelques ateliers Hype(r)Olds ou LabOTrucs.</span></p>
 	        
           <h3>modalités d'adhésion</h3>
-          <p>plusieurs modalités d'adhésion sont possibles. <br>
-            bulletin d'adhésion pour 
-           un membre <a href="bulletin/bulletin-adhesion-association-individu-fondateur.pdf">fondateur</a>, pour un membre <a href="bulletin/bulletin-adhesion-association-individu-actif.pdf">actif</a>, pour un membre <a href="bulletin/bulletin-adhesion-association-individu-simple.pdf">simple</a>, pour une <a href="bulletin/bulletin-adhesion-association-organisation.pdf">organisation</a>.<br>
-            </p>
-	        <hr/>
+          <p>&gt;La qualité du membre de <a href="http://we-love-the.net/bulletin/bulletin-adhesion-association-1-atelier-resident.pdf" target="_self">type 1</a> permet de disposer de : </p>
+          <p>-l'usage du local de La Tapisserie (13 rue Pétion, 75011 Paris) toute l'année. Dispose de la clé pour accéder à l'atelier et peut se voir proposer, s'il le souhaite, l'animation d' ateliers rémunérés Hype(r)Olds, LabOTrucs et des formations<br>
+          </p>
+          <p>&gt;La qualité du membre de <a href="http://we-love-the.net/bulletin/bulletin-adhesion-association-2-atelier-de-passage.pdf" target="_self">type 2</a> permet de disposer de : </p>
+          <p>-l'usage du local de La Tapisserie (13 rue Pétion, 75011 Paris) toute l'année . ne dispose de clé pour accéder à l'atelier - et peut se voir proposer, s'il le souhaite, l'animation d' ateliers rémunérés Hype(r)Olds, LabOTrucs et des formations</p>
+          <p>&gt;La qualité du membre de <a href="http://we-love-the.net/bulletin/bulletin-adhesion-association-3-atelier-usage-machine&location.pdf" target="_self">type 3</a> permet de disposer de : </p>
+          <p>Louer le local de La Tapisserie (13 rue Pétion, 75011 Paris) au tarif préférentiel de 50 euros pour 3 heures <br>
+          -d'utliser les machines de fabrication numérique au tarif de découpe laser : 50 €/h cnc fraiseuse numérique : 50€/h l'imprimante 3D : 20 €/h scanner 3D : gratuit</p>
+<hr/>
 	        <h2>Le bureau</h2>
 	        <p><span class="small9">présidente : sylvie tissot<br>
 	          secrétaire : albertine meunier<br>
