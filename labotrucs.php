@@ -54,6 +54,13 @@
         <?php } ?>
 
               <p><img class="img-responsive" src="http://we-love-the.net/labotrucs_fichiers/sewing-machine-antique.jpg"  alt="hyperolds" width="550"><br>
+                 <p>Nos partenaires sur ce projet : </p><br/>
+          
+          <a href="http://www.digitalmcd.com"><img style='float:left;' class="img-responsive" src="/images/part_mcd.png"  alt="" width="200"></a>
+          <a href="http://www.orange.fr"><img style='float:left;' class="img-responsive" src="/images/partenaire_orange.png"  alt="" width="100"></a>
+          <img style='float:left;margin-left:10px' class="img-responsive" src="/images/partenaire_mairieparis.png"  alt="" width="150">
+          <img style='float:left;margin-left:10px' class="img-responsive" src="/images/partenaires.png"  alt="" width="200">
+      
 
 	  </div>
 	 </div>
