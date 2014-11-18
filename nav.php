@@ -17,11 +17,11 @@
 
           $doActive = false;
 
-          $menu['association.php'] = 'Association';
-          $menu['lieu.php'] = 'Tapisserie, le lieu';
-          $menu['productions.php'] = 'Productions d\'objets';
-          $menu['labotrucs.php'] = 'LabOTrucs';
-          $menu['hyperolds.php'] = 'Hype(r)Olds';
+          $menu['association'] = 'Association';
+          $menu['lieu'] = 'Tapisserie, le lieu';
+          $menu['productions'] = 'Productions d\'objets';
+          $menu['labotrucs'] = 'LabOTrucs';
+          $menu['hyperolds'] = 'Hype(r)Olds';
           $menu['formations.php'] = 'Formations';
 
           $all_projects = array('umbrella','catch','agit','demande','tweet-place','ciel');
