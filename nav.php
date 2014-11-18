@@ -22,7 +22,7 @@
           $menu['productions'] = 'Productions d\'objets';
           $menu['labotrucs'] = 'LabOTrucs';
           $menu['hyperolds'] = 'Hype(r)Olds';
-          $menu['formations.php'] = 'Formations';
+          $menu['formations'] = 'Formations';
 
           $all_projects = array('umbrella','catch','agit','demande','tweet-place','ciel');
           foreach ($all_projects as $project_name) {
