@@ -35,11 +35,15 @@
           <ul>
             <li>Vitrine sur la rue</li>
             <li>Espace d'expo : <a href="http://www.la-tapisserie.net/" target="_blank">La tapisserie</a></li>
+            <li>Video projecteur et écran</li>
+            <li>Imprimante 3D Makerbot</li>
+            <li>Scanner 3D</li>
+            <li>Découpe laser . lasersaur (dans un autre local)</li>
             <li>Etablis</li>
             <li>Outils classiques</li>
             <li>Fer à souder, multimètre, etc...</li>
             <li>Machine à chantourner</li>
-            <li>Découpe laser . lasersaur (dans un autre local)</li>
+           
           </ul>
 	   </div>
    </div>
