@@ -26,11 +26,16 @@
 	        <p>&nbsp;</p>
 
 	        <p>Nos partenaires sur ce projet : </p><br/>
+				<img style='float:left;margin-left:10px' class="img-responsive" src="/images/partenaires.png"  alt="" width="200">
+				<a href="http://www.orange.fr"><img style='float:left;margin-left:10px' style='float:left;' class="img-responsive" src="/images/partenaire_orange.png"  alt="" width="100px" height='150px'></a>
+
+				<img style='float:left;margin-left:10px' class="img-responsive" src="/images/partenaire_mairieparis.png"  alt="" width="150">
+				<a href="http://www.digitalmcd.com"><img style='float:left;margin-left:10px' style='float:left;' class="img-responsive" src="/images/part_mcd.png"  alt="" width="200"></a>
+
+				<br/><br/>
+				<p>  </p>
+
 	        
-				  <a href="http://www.digitalmcd.com"><img style='float:left;' class="img-responsive" src="/images/part_mcd.png"  alt="" width="200"></a>
-				  <a href="http://www.orange.fr"><img style='float:left;' class="img-responsive" src="/images/partenaire_orange.png"  alt="" width="100"></a>
-				  <img style='float:left;margin-left:10px' class="img-responsive" src="/images/partenaire_mairieparis.png"  alt="" width="150">
-				  <img style='float:left;margin-left:10px' class="img-responsive" src="/images/partenaires.png"  alt="" width="200">
 			
 	      
 
