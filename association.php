@@ -18,22 +18,22 @@ et accompagnement de publics vers les NTIC</p>
 		      <p>&nbsp;</p>
 	        <h2>adhérer</h2>
 	       <h3>Pourquoi adhérer ? </h3>
-	        <p> L'association we Love The Net est une association fortement engagée dans la réalisation, la diffusion et la promotion de projets liés au design et à l’art numérique,  et accompagnement de publics vers les NTIC.</p>
+	        <p> L'association We Love The Net est une association fortement engagée dans la réalisation, la diffusion et la promotion de projets liés au design et à l’art numérique,  et dans l'accompagnement de publics vers les nouvelles technologies.</p>
           <p>Devenir membre de l'association We Love The Net permet de faire partie d'un collectif de personnes extrêmement actives autour des nouvelles technologies , de la création et de la transmission des savoirs numériques. </p>
-          <p>Plusieurs possibilités pour adhérer à l'association We Love The Net, vous permettant de disposer de l'usage complet du local de La Tapisserie (13 rue Pétion, 75011 Paris), de créer des projets autour des nouvelles technologies et de l'art ou encore d'accéder simplement à des machines de fabrication numérique.
+          <p>Il existe plusieurs possibilités pour adhérer à l'association We Love The Net, vous permettant de disposer de l'usage complet du local de La Tapisserie (13 rue Pétion, 75011 Paris), de créer des projets autour des nouvelles technologies et de l'art ou encore d'accéder simplement à des machines de fabrication numérique.
 </p><p>Un membre de l'association peut aussi accéder, s'il le souhaite, à l'animation d'ateliers rémunérés Hype(r)Olds, LabOTrucs et de formations.</p>
 	        
           <h3>Les modalités d'adhésion</h3>
           <ul>
           <p><li>L'adhésion : résident permanent (type 1)</li></p>
-          <p>La qualité du membre de <a href="http://we-love-the.net/bulletin/bulletin-adhesion-association-1-atelier-resident.pdf" target="_self">type 1</a> permet d'avoir un usage complet du local de La Tapisserie (13 rue Pétion, 75011 Paris) toute l'année et de disposer de la clé pour y accéder à l'atelier.</p>
+          <p>La qualité du membre de <a href="http://we-love-the.net/bulletin/bulletin-adhesion-association-1-atelier-resident.pdf" target="_self">type 1</a> permet d'avoir un usage complet du local de La Tapisserie (13 rue Pétion, 75011 Paris) toute l'année et de disposer de la clé pour accéder à l'atelier.</p>
          
-          <p>Il peut aussi accéder, s'il le souhaite, à l'animation d'ateliers rémunérés Hype(r)Olds, LabOTrucs et de formations</p>
+          <p>Il peut aussi accéder, s'il le souhaite, à l'animation d'ateliers rémunérés Hype(r)Olds, LabOTrucs et de formations.</p>
           </p>
           <p><li>L'adhésion : au gré des projets (type 2)</li></p>
           <p>La qualité du membre de <a href="http://we-love-the.net/bulletin/bulletin-adhesion-association-2-atelier-de-passage.pdf" target="_self">type 2</a> permet  d'avoir un usage du local de La Tapisserie (13 rue Pétion, 75011 Paris) toute l'année en présence d'un membre "résident permanent" de l'association.</p>
           <p>Il ne dispose donc pas de la clé pour accéder à l'atelier.</p>
-          <p>Il peut aussi accéder, s'il le souhaite, à l'animation d'ateliers rémunérés Hype(r)Olds, LabOTrucs et de formations</p>
+          <p>Il peut aussi accéder, s'il le souhaite, à l'animation d'ateliers rémunérés Hype(r)Olds, LabOTrucs et de formations.</p>
           <p><li>L'adhésion :  Au gré des usages (type 3)</li></p>
           <p>La qualité du membre de <a href="http://we-love-the.net/bulletin/bulletin-adhesion-association-3-atelier-usage-machine&location.pdf">type 3</a> permet de :</p>
           <ul>
